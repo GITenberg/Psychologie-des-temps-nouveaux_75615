@@ -1,0 +1,64 @@
+_repo: Psychologie-des-temps-nouveaux_75615
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    aliases:
+    - Bon, Gustave Le
+    - Bon, Gustave le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Le_Bon
+    - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
+description: 'Reading ease score: 59.4 (10th to 12th grade). Somewhat difficult to
+  read.'
+gutenberg_bookshelf:
+- 'Browsing: History - General'
+- 'Browsing: Psychiatry/Psychology'
+gutenberg_issued: '2025-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75615'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k54479574
+pgterms:marc905: 20250304132940lebon
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bErnest Flammarion, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bibliothèque de philosophie scientifique
+subjects:
+- !lcsh 'Social psychology'
+- !lcsh 'World War, 1914-1918 -- Influence'
+- !lcc 'HM'
+- GITenberg
+summary: '"Psychologie des temps nouveaux" by Gustave Le Bon is a scientific publication
+  written in the early 20th century. This work delves into the psychological forces
+  that shape the dynamics of modern societies, particularly in the context of the
+  aftermath of World War I. Le Bon explores how moral forces and psychological factors
+  influence warfare and societal transformations, providing insights into the collective
+  behavior of different nations.  The opening of "Psychologie des temps nouveaux"
+  presents a comprehensive introduction to the themes of the book, focusing on the
+  immense psychological shifts caused by the war. Le Bon reflects on how the war acted
+  as a laboratory of psychological experimentation, revealing the importance of understanding
+  the character and sentiments of nations in the context of political and social upheavals.
+  He discusses how traditional views on morality and social norms have been challenged,
+  resulting in a chaotic state where new beliefs emerge, thus setting the stage for
+  significant changes in the social landscape. Overall, he emphasizes the critical
+  relationship between psychological factors and historical events, laying the groundwork
+  for further analysis throughout the publication. (This is an automatically generated
+  summary.)'
+tableOfContents: Livre I. L'évolution mentale des peuples -- Livre II. Les luttes
+  de principes dans les guerres modernes -- Livre III. Rôle des facteurs psychologiques
+  dans les batailles -- Livre IV. La propagation des croyances et l'orientation des
+  opinions -- Livre V. Le nouvel ouragan révolutionnaire -- Livre VI. Illusions politiques
+  de l'heure présente -- Livre VII. La désorganisation politique de l'Europe.
+title: Psychologie des temps nouveaux
+url: http://www.gutenberg.org/ebooks/75615
