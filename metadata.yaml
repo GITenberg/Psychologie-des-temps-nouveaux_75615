@@ -1,5 +1,8 @@
 _repo: Psychologie-des-temps-nouveaux_75615
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75615-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Bon, Gustave
@@ -15,6 +18,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
 description: 'Reading ease score: 59.4 (10th to 12th grade). Somewhat difficult to
   read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75615#Psychologie-des-temps-nouveaux
 gutenberg_bookshelf:
 - 'Browsing: History - General'
 - 'Browsing: Psychiatry/Psychology'
